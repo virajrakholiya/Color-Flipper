@@ -22,7 +22,8 @@ To use the Color Flipper:
 4. Watch as the background color changes dynamically, and the hexadecimal color code is displayed.
 
 ## Demo
-[View Demo](#) - *Demo link to be updated*
+[View Demo](#) - *Demo link to be updat![screencapture-file-D-Web-Dev-Javascript-Color-Flipper-index-html-2024-03-22-23_54_20](https://github.com/virajrakholiya/Color-Flipper/assets/94692042/98d43c92-828c-4861-b4de-10c63f73c620)
+ed*
 
 ## Contributing
 Contributions are welcome! Here's how you can contribute to this project:
